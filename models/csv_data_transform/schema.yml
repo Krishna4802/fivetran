@@ -3,6 +3,6 @@ version: 2
 sources:
   - name: csv_data_modification
     database: FIVETRAN_DATABASE
-    schema: POSTGRES_PUBLIC
+    schema: POSTGES_PUBLIC
     tables:
       - name: "CSV_DATA"
