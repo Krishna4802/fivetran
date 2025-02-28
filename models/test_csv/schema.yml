@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: test_csv_loading1
+    database: LEARNING
+    schema: LEARNING
+    tables:
+      - name: "LP_DATA_PIPE"
